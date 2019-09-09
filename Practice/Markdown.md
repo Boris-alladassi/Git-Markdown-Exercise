@@ -35,7 +35,11 @@
 2. $git diff: Shows file differences not yet staged
 3. $git add .: snapshots the file in preparation for versioning stage 
 4. $git commit -m:"Informative and descriptive commit message": records file snapshots permanently in version history 
-5. $git touch [file]:creating a file in local repository
+5. $touch [file]:creating a file in local repository
+6. $git add [file.md]: stage file
+7. $git commit [file.md]: brings up vim and type in commit message
+8. $git commit -am: stage and commit at the same time
+
 
 *Synchronize Changes*
 

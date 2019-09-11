@@ -12,7 +12,16 @@ git add | To stage or start tracking files
 git commit | To commit the changes made
 git push | To send our changes to the remote server if permission is granted.
 
-``` git clone ```
-``` git push ```
-```git add ```
+Some very useful git commands that I have learnt so far are:  
+
+``` git clone ```  
+``` git push ```  
+```git add ```  
 ``` git pull ```  
+``` git branch <branch name>```  
+``` git branch``` this helps to list all the existing branches  
+``` git checkout <branch name>``` to switch to anoter branch  
+```git log```  
+```git diff```  
+```git status``` 
+    
